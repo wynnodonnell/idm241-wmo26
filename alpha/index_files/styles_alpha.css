@@ -24,3 +24,9 @@ div{
     margin-left: 10rem;
     margin-right: 10rem;
 }
+a{
+    color:white;
+}
+a:hover{
+    color:grey;
+}

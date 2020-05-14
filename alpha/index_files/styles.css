@@ -111,6 +111,9 @@ a{
 a:hover{
     color:grey;
 }
+p{
+  text-align: left;
+}
 /*Alpha Build Code, uses inspiration from https://codepen.io/littlesnippets/pen/NGdoKP
 */
 figure.caption {
